@@ -1,0 +1,5 @@
+*backend/node_modules/
+*backend/views/
+*backend/.editorconfig
+*config/index.js
+*backend/config/index.js
